@@ -6,15 +6,15 @@ Modelo-Vista-Presentador
 ### Ventajas
 Funciona muy bien en Android, porque:
 
-*Es un patrón
+* Es un patrón
 
-*Expandible facilmente, ya que se programa por capas
+* Expandible facilmente, ya que se programa por capas
 
-*Escribir código de manera muy limpia
+* Escribir código de manera muy limpia
 
-*Test unitarios de una manera muy sencilla
+* Test unitarios de una manera muy sencilla
 
-*Como la vista, por lo general, no va a tener lógica, lo hace más fácil
+* Como la vista, por lo general, no va a tener lógica, lo hace más fácil
 
 **Presentador**: Intermediario entre la vista y el modelo
 
