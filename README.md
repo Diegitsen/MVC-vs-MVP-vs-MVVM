@@ -13,6 +13,8 @@ Funciona muy bien en Android, porque:
 
 **Presentador**: Intermediario entre la vista y el modelo
 
-- [x] **Vista**: Activitys, fragments, views
+**Vista**: Activitys, fragments, views
 
-- [x] **Modelo**: Proveedor de datos, base de datos, web service, la lógica de la aplicación
+**Modelo**: Proveedor de datos, base de datos, web service, la lógica de la aplicación
+
+Aqui esta un ejemplo sencillo de MVP: https://github.com/Diegitsen/MVP-Example
