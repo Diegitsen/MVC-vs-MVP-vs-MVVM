@@ -12,5 +12,7 @@ Funciona muy bien en Android, porque:
 *Como la vista, por lo general, no va a tener lógica, lo hace más fácil
 
 **Presentador**: Intermediario entre la vista y el modelo
-*Vista*: Activitys, fragments, views
-~~Modelo~~: Proveedor de datos, base de datos, web service, la lógica de la aplicación
+
+[ ]**Vista**: Activitys, fragments, views
+
+[X]**Modelo**: Proveedor de datos, base de datos, web service, la lógica de la aplicación
