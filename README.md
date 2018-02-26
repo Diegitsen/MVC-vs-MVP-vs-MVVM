@@ -13,6 +13,6 @@ Funciona muy bien en Android, porque:
 
 **Presentador**: Intermediario entre la vista y el modelo
 
-[ ]**Vista**: Activitys, fragments, views
+- [x] **Vista**: Activitys, fragments, views
 
-[X]**Modelo**: Proveedor de datos, base de datos, web service, la lógica de la aplicación
+- [x] **Modelo**: Proveedor de datos, base de datos, web service, la lógica de la aplicación
